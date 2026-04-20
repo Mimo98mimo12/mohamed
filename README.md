@@ -7,15 +7,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">✨ Creating bugs since 2024 😅  <br>📚 I'm currently learning **Laravel, PHP & Backend Development**  <br>🎯 Goals: Become a Full Stack Developer & build real-world projects  <br>🔥 Passionate about coding, problem solving & making money online  <br>💡 Fun fact: I learn fast and love challenges</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2025 😅<br>📚 I'm currently learning **Laravel, PHP & Backend Development**<br>🎯 Goals: Become a Full Stack Developer & build real-world projects<br>🔥 Passionate about coding, problem solving & making money online<br>💡 Fun fact: I learn fast and love challenges</p>
+<p align="left">💻 Frontend:<br>- HTML, CSS, JavaScript<br><br>⚙️ Backend:<br>- PHP, Laravel<br><br>🛢️ Database:<br>- MySQL<br><br>🛠️ Tools:<br>- Git, GitHub, VS Code</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left"></h2>
 
 ###
 
